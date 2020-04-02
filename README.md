@@ -19,7 +19,7 @@ Esse sistema veio para resolver exatamente isso.
 
 ## Review
 
-![Review-back](https://github.com/alansouz4/livre-aqui/blob/master/site.png)
+![Review-back](https://github.com/alansouz4/livre-aqui/blob/master/cod%20back.png)
 
 #### Front-end:
 - ReactJS
@@ -37,3 +37,9 @@ Esse sistema veio para resolver exatamente isso.
 ## Review
 
 ![Review-front](https://github.com/alansouz4/livre-aqui/blob/master/site.png)
+![Review-site](https://github.com/alansouz4/livre-aqui/blob/master/cod%20front.png)
+
+
+### Acesse: 
+[linkedin-alan-augusto](https://www.linkedin.com/in/alan-augusto-/)
+
