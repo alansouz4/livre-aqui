@@ -1,0 +1,10 @@
+// importante path do node para lidar com os caminhos
+const path = require('path');
+
+// exportando
+module.exports  = {
+    config: path.resolve(__dirname, 'src', 'config', 'database.js'),
+    'migrations-path': path.resolve(__dirname, 'src', 'database', 'migrations'),
+};
+
+//__dirname – DIRETÓRIO ONDE O ARQUIVO ESTA E O CAMINHO DAS PASTAS
