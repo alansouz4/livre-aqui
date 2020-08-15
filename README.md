@@ -7,9 +7,9 @@ LivreAqui é uma aplicação que conecta pessoas com interesses em encontrar lug
 Esse software veio para resolver exatamente isso.
 
 ## Requisitos:
-- Acessar o backend da aplicação
-- yarn init ou npm install para baixar as dependências
-- yarn start ou npm start para rodar os projetos
+- Acessar o frontend e backend da aplicação separados
+- rodar yarn init ou npm install para baixar as dependências
+- rodar yarn start ou npm start para rodar os projetos
 
 ### Tecnologias:
 
