@@ -6,10 +6,15 @@
 LivreAqui é uma aplicação que conecta pessoas com interesses em encontrar lugares amigáveis, que muitas vezes precisam de um feedback.
 Esse software veio para resolver exatamente isso.
 
+## Requisitos:
+- Acessar o backend da aplicação
+- yarn init ou npm install para baixar as dependências
+- yarn start ou npm start para rodar os projetos
+
 ### Tecnologias:
 
 
-#### Back-end:
+# Back-end:
 - NodeJS
 - Express
 - Cors
@@ -21,18 +26,12 @@ Esse software veio para resolver exatamente isso.
 
 ![Review-back](https://github.com/alansouz4/livre-aqui/blob/master/cod%20back.png)
 
-#### Front-end:
+
+
+# Front-end:
 - ReactJS
 - Styled-Components
 - Axios
-
-
-
-## Requisitos:
-- Acessar o backend da aplicação
-- yarn init ou npm install para baixar as dependências
-- yarn start ou npm start para rodar os projetos
-
 
 ## Review
 
