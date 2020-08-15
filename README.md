@@ -3,8 +3,8 @@
 ## Sobre a Aplicação
 
 
-LivreAqui é uma aplicação que vai conectar pessoas com interesse em encontrar lugares amigáveis, que muitas vezes precisa de um feedback.
-Esse sistema veio para resolver exatamente isso.
+LivreAqui é uma aplicação que conecta pessoas com interesses em encontrar lugares amigáveis, que muitas vezes precisam de um feedback.
+Esse software veio para resolver exatamente isso.
 
 ### Tecnologias:
 
