@@ -16,8 +16,9 @@ Esse software veio para resolver exatamente isso.
 - Instalar MySQL Workbench
 - Instalar e rodar servidor local, XAMPP OU WAMPSERVER
 - Configuração do MySQL no arquivo 'database.js' na pasta 'config'
+- Criar database no banco antes de executar sequelize
 - Caso queira usar outro banco, mudar 'config'
-- rodar sequelize no node para criar tabela no banco: npx sequelize db:migrate
+- rodar sequelize no node para criar tabelas no banco: npx sequelize db:migrate
 
 ### Tecnologias:
 
