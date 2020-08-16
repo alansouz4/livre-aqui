@@ -11,6 +11,12 @@ Esse software veio para resolver exatamente isso.
 - rodar yarn init ou npm install para baixar as dependências
 - rodar yarn start ou npm start para rodar os projetos
 
+> Banco de dados MySQL
+
+- Instalar e rodar servidor local, XAMPP OU WAMPSERVER
+- Configuração do MySQL no arquivo 'database.js' na pasta 'config'
+- rodar sequelize para criar tabela no banco: npx sequelize db:migrate
+
 ### Tecnologias:
 
 
